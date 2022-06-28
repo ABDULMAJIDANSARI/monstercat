@@ -647,11 +647,12 @@ header {
 
    .instinct {
       display: flex;
-      width: 90%;
+      justify-content: flex-start;
+      width: 95%;
       transform: none;
       margin-top: -208px;
       z-index: -1;
-      margin-left: 3.3rem;
+      margin-left: 4.3rem;
    }
 
    .level-days {
