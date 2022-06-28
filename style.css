@@ -646,13 +646,12 @@ header {
    }
 
    .instinct {
-     
       display: flex;
-      width: 100%;
+      width: 77%;
       transform: none;
-      margin-left: -1.7rem;
       margin-top: -208px;
       z-index: -1;
+      margin-left: 3.3rem;
    }
 
    .level-days {
@@ -676,9 +675,10 @@ header {
    }
 
    .stream h1 {
-      width: 100%;
-      text-align: center;
+      width: 87%;
+      /* text-align: center; */
       font-size: 28px;
+      margin-left: 1.3rem;
    }
 
    .box-content {
@@ -691,7 +691,7 @@ header {
    }
 
    .player {
-      width: 35%;
+      width: 50%;
    }
 
    .bandcamp {
