@@ -588,7 +588,7 @@ header {
 
 
 
-@media only screen and (max-width: 532px) {
+@media only screen and (max-width: 532px) and (min-width: 320px) {
    body {
       padding: 0;
       margin: 0;
@@ -797,11 +797,11 @@ header {
    }
 
    .sign-up {
-      width: 114%;
+      width: 100%;
    }
 
    .arrow {
-      width: 108px;
+      width: 80px;
    }
    
 
