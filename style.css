@@ -785,7 +785,8 @@ header {
    }
 
    .footer-icons li {
-      margin: 0px 7px;
+      margin: 0;
+      padding: 0px 6px;
    }
 
    .footer-2 {
